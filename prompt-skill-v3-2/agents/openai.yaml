@@ -1,0 +1,4 @@
+interface:
+  display_name: "提示词 Skill V3.2"
+  short_description: "把锁定导演合同原样编译成可直接提交的视频模型提示词"
+  default_prompt: "Use $prompt-skill-v3-2 to compile this locked DIRECTOR_LOCK v1 into a copy-ready, model-native video prompt without changing any directing decision."
